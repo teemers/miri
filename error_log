@@ -1,0 +1,30 @@
+[28-Nov-2024 05:27:47 UTC] PHP Warning:  require(/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:27:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/gnggib1v/mirisoft.co.in/miri/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:28:23 UTC] PHP Warning:  require(/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:28:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/gnggib1v/mirisoft.co.in/miri/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:28:25 UTC] PHP Warning:  require(/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:28:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/gnggib1v/mirisoft.co.in/miri/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:28:44 UTC] PHP Warning:  require(/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:28:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/gnggib1v/mirisoft.co.in/miri/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:31:10 UTC] PHP Warning:  require(/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:31:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/gnggib1v/mirisoft.co.in/miri/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:31:33 UTC] PHP Warning:  require(/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
+[28-Nov-2024 05:31:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/gnggib1v/mirisoft.co.in/miri/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/gnggib1v/mirisoft.co.in/miri/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/gnggib1v/mirisoft.co.in/miri/index.php on line 13
